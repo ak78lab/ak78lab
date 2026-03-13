@@ -1,10 +1,10 @@
 # Contributors to AK78 Core Platform
 
-## Founder
-- Sergei Kulkov — Vision, Architecture, Strategy
+## Enterprise Accpunt Execitive
+- Serg Kulkov - Vision, Architecture, Strategy
 
 ## Assistants & Collaborators
-- Aksiniia Kulkova — Creative
+- Aks Kulkov - Creative
 
 ## Want to join?
 Open an issue or reach out via X
