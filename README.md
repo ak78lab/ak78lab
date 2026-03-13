@@ -1,8 +1,8 @@
 # AK78 Core
 
-AK78 Core is a quantum-inspired engine for adaptive management in high-uncertainty environments — the foundation of the AK78 Ecosystem.
+AK78 Core is a quantum-inspired engine for adaptive management in high-uncertainty environments - the foundation of the AK78 Ecosystem.
 
-## 🚀 Vision
+## Vision
 
 We are building a new class of intelligent systems based on principles drawn from quantum mechanics - not for physical computations, but for rethinking how we adapt, decide, and organize in volatile conditions.
 
@@ -10,7 +10,7 @@ This platform serves as the core engine of the AK78 concept: a framework for dec
 
 ---
 
-## 🔍 Key Concepts
+## Key Concepts
 
 - **Superposition Management** - hold multiple potential outcomes before collapsing into action.
 - **Entropy Optimization** - detect and regulate disorder or ambiguity in systems.
@@ -19,7 +19,7 @@ This platform serves as the core engine of the AK78 concept: a framework for dec
 
 ---
 
-## 🧠 Why It Matters
+## Why It Matters
 
 Classical project management tools break down in chaotic environments.
 
@@ -47,15 +47,15 @@ modules/future/
 
 ---
 
-## 🤝 Contribute
+## Contribute
 
 We are at the beginning of the journey. If you are interested in:
 - Adaptive systems
 - Quantum-inspired AI
 - Building tools for complex uncertainty
 
-join us. Open an issue or connect via X
+Join us. Open an issue or connect via X
 
 ---
 
-Built with curiosity, care, and chaos-friendly logic 🌀
+Built with curiosity, care, and chaos-friendly logic
